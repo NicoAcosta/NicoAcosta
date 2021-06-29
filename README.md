@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Contact me](https://t.me/nicoacosta8) via [#Telegram](https://github.com/topics/telegram).
+
 <!--
 **NicoAcosta/NicoAcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
