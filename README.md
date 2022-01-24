@@ -3,7 +3,7 @@
 I'm Nicolás Acosta ᵍᵐ
 
 - 📚  studying IT Engineering @ [UTN.BA](https://www.frba.utn.edu.ar/)
-- 📗  teaching assistant of [Programming Paradigms](https://github.com/pdep-lunes) course @ [UTN.BA](https://www.frba.utn.edu.ar/)
+- 📗  teaching assistant @ [Programming Paradigms](https://github.com/pdep-lunes) course @ [UTN.BA](https://www.frba.utn.edu.ar/)
 - 💻  dev
 - Ξ   web3 builder
 - 🎧  dj
