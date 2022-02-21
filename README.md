@@ -16,6 +16,7 @@ Some [Solidity](https://github.com/topics/solidity) repos:
 - [@Proof-Of-Humanity](https://github.com/Proof-Of-Humanity) [Social media human Sybil-resistant verification](https://github.com/NicoAcosta/poht-contract) (WIP)
 - [@martriay](https://github.com/martriay)'s [tournamnent NTF](https://github.com/NicoAcosta/web3tournament) idea
 - [Admins](https://github.com/NicoAcosta/admins-contract) contract for access control
+- [POAP Voting](https://github.com/NicoAcosta/poap-xdai-voting) contract to vote among a certain event attendees. Mints an NFT to the winners.
 - [Zoe ponzi scheme parody](https://github.com/NicoAcosta/zoe-ponzi-parody)
 
 [Contact me](https://t.me/nicoacosta8) via [Telegram](https://t.me/nicoacosta8).
