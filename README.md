@@ -11,6 +11,7 @@ I'm Nicolás Acosta ᵍᵐ
 
 Some [Solidity](https://github.com/topics/solidity) repos:
 
+- [ETH Splitter](https://github.com/NicoAcosta/eth-splitter). Split ETH received to two addresses (for NFT royalties)
 - [Simple Curve Automatic Market Maker](https://github.com/NicoAcosta/AMM) decentralized exchange based on [Uniswap V1](https://github.com/Uniswap/v1-contracts)
 - [@exactly-finance](https://github.com/exactly-finance)'s [Senior Solidity Engineer chanllenge](https://github.com/NicoAcosta/challenge)
 - [@Proof-Of-Humanity](https://github.com/Proof-Of-Humanity) [Social media human Sybil-resistant verification](https://github.com/NicoAcosta/poht-contract) (WIP)
