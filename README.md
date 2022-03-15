@@ -9,9 +9,14 @@ I'm Nicolás Acosta ᵍᵐ
 - 🎧  dj
 - 🎹  musician
 
-Some [Solidity](https://github.com/topics/solidity) repos:
+### Mainnet depoyed
 
-- [ETH Splitter](https://github.com/NicoAcosta/eth-splitter). Split ETH received to two addresses (for NFT royalties)
+- [TWINESIS](https://github.com/NicoAcosta/twinesis) NFT collection. Dynamic metadata
+- [ETH Splitter](https://github.com/NicoAcosta/eth-splitter). Split ETH received to two addresses in certain percentages (for NFT royalties)
+
+
+#### Other [Solidity](https://github.com/topics/solidity) repos:
+
 - [Simple Curve Automatic Market Maker](https://github.com/NicoAcosta/AMM) decentralized exchange based on [Uniswap V1](https://github.com/Uniswap/v1-contracts)
 - [@exactly-finance](https://github.com/exactly-finance)'s [Senior Solidity Engineer chanllenge](https://github.com/NicoAcosta/challenge)
 - [@Proof-Of-Humanity](https://github.com/Proof-Of-Humanity) [Social media human Sybil-resistant verification](https://github.com/NicoAcosta/poht-contract) (WIP)
