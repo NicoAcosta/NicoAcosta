@@ -12,7 +12,7 @@ I'm Nicolás Acosta ᵍᵐ
 ### Mainnet depoyed
 
 - [TWINESIS](https://github.com/NicoAcosta/twinesis) NFT collection. Dynamic metadata
-- [ETH Splitter](https://github.com/NicoAcosta/eth-splitter). Split ETH received to two addresses in certain percentages (for NFT royalties)
+- [ETH and ERC20 Splitter](https://github.com/NicoAcosta/eth-erc20-splitter). Split ETH or ERC20 tokens received to two addresses in certain percentages (for NFT royalties)
 
 
 #### Other [Solidity](https://github.com/topics/solidity) repos:
