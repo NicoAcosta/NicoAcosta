@@ -2,7 +2,6 @@
 
 I'm Nicolás Acosta ᵍᵐ
 
-- 📚  studying IT Engineering @ [UTN.BA](https://www.frba.utn.edu.ar/)
 - 📗  teaching assistant @ [Programming Paradigms](https://github.com/pdep-lunes) course @ [UTN.BA](https://www.frba.utn.edu.ar/)
 - 💻  dev
 - Ξ   web3 builder
@@ -14,6 +13,7 @@ I'm Nicolás Acosta ᵍᵐ
 - [TWINESIS](https://github.com/NicoAcosta/twinesis) [TwinnyTwin](https://twinnytwin.io/)'s Genesis NFT collection. Dynamic metadata
 - [ETH and ERC20 Splitter](https://github.com/NicoAcosta/eth-erc20-splitter). Split ETH or ERC20 tokens received to two addresses in certain percentages (for NFT royalties)
 - [VIOLET](https://github.com/NicoAcosta/violet) [Jadyn Violet](https://jadynviolet.xyz/)'s Genesis NFT collection.
+- [Newtro Drops](https://github.com/NicoAcosta/newtro-drops). [Newtro Arts](https://newtroarts.xyz) airdrops collection.
 
 
 #### Other [Solidity](https://github.com/topics/solidity) repos:
