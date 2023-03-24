@@ -9,7 +9,7 @@ I'm Nico Acosta ᵍᵐ
 - 🎹  musician
 - 🌍  building [Empathia](https://empatha.social/)
 
-# Spaces 
+## Spaces 
 
 - [Viajando con Gigantes: Capítulo 2: De cajas mágicas a smart contracts](https://twitter.com/i/spaces/1PlJQpeNOVvGE)
 - [Curso Intro a Solidity (Solow) - Alamacenamiento EVM y Solidity](https://www.youtube.com/watch?v=1VFVh5b6F2Q)
