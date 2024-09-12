@@ -7,7 +7,7 @@ I'm Nico Acosta ᵍᵐ
 - Ξ   web3 builder
 - 🎧  dj
 - 🎹  musician
-- 🌍  building [Empathia](https://empatha.social/)
+- 🌍  building stuff
 
 ## Spaces 
 
